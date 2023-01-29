@@ -7,3 +7,7 @@
 *.tfstate.*
 
 *.pem
+Iac-DEV
+Iac-DEV.pub
+Iac-Prod
+Iac-Prod.pub

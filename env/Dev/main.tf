@@ -3,6 +3,7 @@ module aws_dev {
   instancia = "t2.micro"
   regiao_aws = "us-west-2"
   chave  = "Iac-DEV"
+  name = "DEV"
 }
 
 output IP {

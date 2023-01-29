@@ -6,3 +6,7 @@ module aws_prod {
   name = "Prod"
 }
 
+output IP {
+  value = module.aws_prod.IP_publico
+  sensitive = true
+}

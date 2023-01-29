@@ -11,3 +11,7 @@ Iac-DEV
 Iac-DEV.pub
 Iac-Prod
 Iac-Prod.pub
+/env/Dev/Iac-DEV
+/env/Dev/Iac-DEV.pub
+/env/Prod/IaC-Prod.pub
+/env/Prod/Iac-Prod
